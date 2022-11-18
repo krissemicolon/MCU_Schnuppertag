@@ -1,9 +1,14 @@
 # LUKB Schnuppertag Microcontroller
 > Aufgaben & Dokumentation
 
+## Einkaufsliste
+- [ ] [10x Raspberry Pi Pico H](https://shop.pimoroni.com/products/raspberry-pi-pico?variant=40213898264659)
+- [ ] [LED Matrix](https://shop.pimoroni.com/products/pico-scroll-pack?variant=32369496653907)
+- [ ] [USB A to microB cable](https://shop.pimoroni.com/products/usb-a-to-microb-cable-black?variant=31241639434)
+
 ## Komponenten
 * MAP mit Thonny Python IDE Installiert
-* USB Kabel
+* USB A zu microB Kabel
 * Raspberry Pi Pico mit "pimoroni-pico" firmware
 * Pimoroni LED Matrix
 
@@ -17,4 +22,5 @@
 
 ## Aufgaben
 * Internes LED Blinken
+* LED Matrix Text
 * LED Matrix Lichtmuster
