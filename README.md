@@ -9,7 +9,7 @@
 ## Komponenten
 * MAP mit Thonny Python IDE Installiert
 * USB A zu microB Kabel
-* Raspberry Pi Pico mit "pimoroni-pico" firmware
+* Raspberry Pi Pico H mit "pimoroni-pico" firmware
 * Pimoroni LED Matrix
 
 ## Setup
