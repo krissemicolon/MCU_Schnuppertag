@@ -1,4 +1,5 @@
-# Microcontroller LUKB Schnuppertag Aufgaben
+# LUKB Schnuppertag Microcontroller
+> Aufgaben & Dokumentation
 
 ## Komponenten
 * MAP mit Thonny Python IDE Installiert
