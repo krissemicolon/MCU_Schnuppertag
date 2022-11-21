@@ -3,7 +3,7 @@
 
 ## Einkaufsliste
 - [ ] [10x Raspberry Pi Pico H](https://shop.pimoroni.com/products/raspberry-pi-pico?variant=40213898264659)
-- [ ] [LED Matrix](https://shop.pimoroni.com/products/pico-scroll-pack?variant=32369496653907)
+- [ ] [LED Matrix](https://www.digitec.ch/de/s1/product/pimoroni-pim545-pico-scroll-pack-mit-119-weissen-leds-elektronikmodul-22896088)
 - [ ] [USB A to microB cable](https://shop.pimoroni.com/products/usb-a-to-microb-cable-black?variant=31241639434)
 
 ## Komponenten
