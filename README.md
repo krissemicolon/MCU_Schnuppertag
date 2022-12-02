@@ -19,6 +19,7 @@
     * [Tutorial-Link](https://learn.pimoroni.com/article/getting-started-with-pico#installing-the-custom-firmware)
 3. Verbinde den Pico mit dem MAP (mit USB Kabel)
 4. Teste die Funktionalität
+    * Führe die Aufgaben aus
 
 ## Aufgaben
 * Internes LED Blinken

@@ -1,11 +1,8 @@
-from machine import Pin
-import utime
+import machine
+import time
 
-led = Pin(28, Pin.OUT)
-delay = .4
+led = machine.Pin(25, machine.Pin.OUT)
 
 while True:
-    led.value(1)
-    utime.sleep(delay)
-    led.value(0)
-    utime.sleep(delay)
+    led.toggle()
+    time.sleep(0.4)
